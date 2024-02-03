@@ -12,6 +12,7 @@ while (i < 1000) {
   i++;
 }
 console.log(naturalNumbers);
+//Testibng
 
 let b = 0;
 let total = 0;
